@@ -92,9 +92,9 @@ export default {
       },
       backgroundImage: {
         "y2k-gradient":
-          "linear-gradient(135deg, #9b87f5 0%, #7E69AB 50%, #D946EF 100%)",
+          "linear-gradient(135deg, #22c55e 0%, #16a34a 50%, #15803d 100%)",
         "y2k-mesh":
-          "radial-gradient(circle at 20% 80%, #9b87f5 0%, transparent 50%), radial-gradient(circle at 80% 20%, #D946EF 0%, transparent 50%), radial-gradient(circle at 40% 40%, #7E69AB 0%, transparent 50%)",
+          "radial-gradient(circle at 20% 80%, #22c55e 0%, transparent 50%), radial-gradient(circle at 80% 20%, #16a34a 0%, transparent 50%), radial-gradient(circle at 40% 40%, #15803d 0%, transparent 50%)",
       },
     },
   },
