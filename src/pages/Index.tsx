@@ -66,7 +66,7 @@ const Index = () => {
       <Card className="w-full max-w-md y2k-card backdrop-blur-lg bg-opacity-90">
         <CardHeader className="text-center">
           <CardTitle className="text-3xl font-bold accent-font bg-y2k-gradient bg-clip-text text-transparent">
-            ЧАТ 2000
+            Душевный чат
           </CardTitle>
           <p className="text-muted-foreground mt-2">
             Добро пожаловать в эпоху Y2K
@@ -116,7 +116,7 @@ const Index = () => {
         <div className="w-80 bg-card border-r border-border">
           <div className="p-4 border-b border-border">
             <h2 className="text-xl font-bold accent-font bg-y2k-gradient bg-clip-text text-transparent">
-              ЧАТ 2000
+              Душевный чат
             </h2>
           </div>
 
