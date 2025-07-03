@@ -69,7 +69,7 @@ const Index = () => {
             Душевный чат
           </CardTitle>
           <p className="text-muted-foreground mt-2">
-            Добро пожаловать в эпоху Y2K
+            Чат от создателей группы Скоморох
           </p>
         </CardHeader>
         <CardContent className="space-y-4">
